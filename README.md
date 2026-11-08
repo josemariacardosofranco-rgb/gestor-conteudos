@@ -1,2 +1,1 @@
-# gestor-conteudos
-gestor de texto
+Gestor de conteúdos textuais em Python: coloque os ficheiros .txt ao lado do main.py (ou numa pasta "textos"), execute `python main.py` e use o menu para listar, pesquisar e ver o corpo e o tamanho de cada texto.
